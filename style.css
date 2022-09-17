@@ -1,0 +1,25 @@
+/* GLOBAL */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.content{
+    margin: auto;
+    width: 80%;
+}
+.content__tieude{
+    text-align: center;
+}
+i{
+    color:orange;
+}
+.inMangSo{
+    height: 40px;
+    margin: auto;
+    width: 50%;
+    background-color: #28a745;
+    color: white;
+    padding: 7px;
+}
+
